@@ -1,2 +1,3 @@
 # AdaBoost_for_Marketing_Campaigns
  
+In ensemble learning, we combine decisions from multiple weak learners to solve a classification problem. It is expected that the combined decision will perform better than the individual models in the process of one model correcting the errors of the other. There are many ensemble methods such as stacking, bagging and boosting. In this project, I implemented the AdaBoost algorithm using the data from direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict whether the client will subscribe a term deposit (variable y) or not. Please read the problem statement for a better understanding of the problem and the task performed.
